@@ -1,0 +1,235 @@
+@media screen  and (max-width:768px) {
+    .nav{
+        left: 90px;
+    }
+    .row1 h2{
+        font-size: 2.6rem;
+    }
+    
+    .row1 a img{
+        width: 200px;
+    }
+
+    .row2 h2{
+        padding: 60px 0px 44px 0px;
+        font-size: 2.6rem;
+    }
+
+    .row3{
+        gap: 20px;
+        padding: 30px 5px 30px 5px;
+        justify-content: space-around;
+        box-sizing: border-box;
+    }
+
+    .section4 h2{
+        font-size: 2.6rem;
+    }
+
+    .section6 h2{
+        font-size: 2.6rem;
+        padding: 55px 0px 45px 0px
+    }
+
+    .row7{
+        gap: 30px;
+        justify-content: space-around;
+        padding: 20px 0px;
+    }
+
+    .section8 h2{
+        font-size: 2.6rem;
+        padding: 40px 0px 38px 0px;
+    }
+
+    .row9-row1{
+        gap: 20px;
+        padding: 10px 0px;
+        justify-content: center;
+    }
+
+    .section10 h2{
+        font-size: 2.6rem;
+        padding-top: 25px;
+    }
+
+    .section12{
+        margin-top: 75px;
+    }
+}
+
+@media screen  and (max-width:640px){
+    .nav{
+        left: 94px;
+        top: 117px;
+    }
+
+    .row1 h2{
+        font-size: 2.2rem;
+    }
+
+    .row2 h2{
+        padding: 40px 0px 44px 0px;
+        font-size: 2.4rem;
+    }
+
+    .section4 h2{
+        font-size: 2.4rem;
+        padding: 40px 0px 40px 0px;
+    }
+
+    .row5-col p{
+        font-size: 1rem;
+    }
+
+    .section6 h2{
+        font-size: 2.4rem;
+        padding: 40px 0px 40px 0px;
+    }
+
+    .section8 h2{
+        font-size: 2.4rem;
+        padding: 40px 0px 40px 0px;
+    }
+
+    .section10 h2{
+        font-size: 2.4rem;
+        padding-top: 25px
+    }
+
+    .section10 p{
+        font-size: 1.1rem;
+    }
+
+}
+
+@media screen  and (max-width:480px){
+    .nav{
+        top: 167px;
+    }
+
+    .row1 h2{
+        font-size: 1.7rem;
+    }
+
+    .row5-col h2{
+        font-size: 2.0rem;
+    }
+
+    .row5-col p{
+        font-size: 0.9rem;
+    }
+
+    .section8 h2{
+        font-size: 1.8rem;
+    }
+
+    .section10 p{
+        font-size: 0.9rem;
+    }
+
+}
+
+@media screen  and (max-width:360px){
+    .header{
+        height: auto;
+    }
+
+    .row1{
+        height: 575px;
+    }
+
+    .nav{
+        left: 71px;
+        top: 167px;
+    }
+
+    .nav li a,
+    .nav li{
+        color: #c0c0c0;
+    }
+
+    .row1 h2{
+        margin-bottom: 50px;
+        font-size: 1.3rem;
+    }
+
+    .row2 h2{
+        font-size: 1.8rem;
+    }
+
+    .section4 h2{
+        font-size: 1.8rem;
+    }
+
+    .row5-col p{
+        font-size: 0.8rem;
+    }
+
+    .section6 h2{
+        font-size: 1.8rem;
+    }
+
+    .section8 h2{
+        font-size: 1.4rem;
+    }
+
+    .section10 h2{
+        font-size: 1.8rem;
+    }
+
+    .section10 p{
+        font-size: 0.7rem;
+    }
+
+    .row12 p{
+        font-size: 0.9rem;
+    }
+
+    .ssec{
+        display: inline;
+    }
+
+    .sec1{
+        width: auto;
+    }
+
+    .sumit{
+        width: 140px;
+    }
+
+}
+
+@media screen  and (max-width:320px){
+    .nav{
+        top: 164px;
+        left: 75px;
+    }
+
+    .nav li a,
+    .nav li{
+        color: #c0c0c0;
+    }
+
+    .row1 h2{
+        font-size: 1.1rem;
+    }
+
+    .section8 h2{
+        font-size: 1.3rem;
+    }
+
+    .section10 p{
+        font-size: 0.6rem;
+    }
+
+    .row12 p{
+        font-size: 0.8rem;
+    }
+
+    .row9-col{
+        width: 280px;
+    }
+
+    
+}
